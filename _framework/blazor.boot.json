@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AnotherEeveeComic",
   "resources": {
-    "hash": "sha256-CfQFm90qU6Qp/lf1996jovo04UEw+pjvvij33o1V/fE=",
+    "hash": "sha256-z4cabzGlZoQiELYvdhHQWBq81n9kFeVZzoAJ3xSd0gQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.19.ihm50f0zha.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "AnotherEeveeComic.wasm": "sha256-FYf+4mSkU8AinikP0ItTfd/DoNWjP0aVnRsSl7rV0g8=",
+      "AnotherEeveeComic.wasm": "sha256-Otuu4uxUrsh8z5eBqySt7wDvlqxX5d8CyXS1dptcHzk=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-m5TgrLGF17JYAx/Un/IB0KQ0lx9eDrQ3iii4GNszXZI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-QfEtrkpquFvCm+ZXF0D0Cn3neNz6yJvHOnpckRSSuvs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-3eOyO4ym/P4OFyhNf/04qtnuLbZdmqrUkiR7WpF8dh0=",
